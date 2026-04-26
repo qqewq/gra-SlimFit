@@ -1,3 +1,5 @@
+https://orcid.org/my-orcid?orcid=0009-0004-1872-1153
+https://doi.org/10.5281/zenodo.19782810
 # SlimFit GRA: Weight Loss Without Hunger via GRA Nullification
 
 This repository implements a multilevel GRA nullification experiment for generating personalized diet plans that minimize subjective hunger while achieving weight loss.
